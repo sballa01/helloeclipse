@@ -6,7 +6,8 @@ public class Helloeclipse {
 		
 		System.out.println("hello eclipse");
 		System.out.println("hello second eclipse");
-		System.out.println("hello third eclipse");
+		System.out.println("hello third eclips");
+		
 	
 	}
 
